@@ -1,0 +1,155 @@
+{
+    "curve": {
+        "dateTime": "2020-11-29T15:35:08.842071",
+        "total": 2,
+        "deaths": 1,
+        "recovered": 1,
+        "negatives": 0
+    },
+    "transmission": [
+        {
+            "caseNumber": 1,
+            "givenName": "Joao",
+            "familyName": "Silva",
+            "documentNumber": "224",
+            "documentType": "CITIZEN_CARD",
+            "dateOfBirth": "2000-03-10",
+            "casesContagiated": [
+                {
+                    "caseNumber": 2,
+                    "givenName": "Joao",
+                    "familyName": "Santos",
+                    "documentNumber": "888",
+                    "documentType": "CITIZEN_CARD",
+                    "dateOfBirth": "2000-03-10",
+                    "casesContagiated": [
+                        {
+                            "caseNumber": 7,
+                            "givenName": "Luis",
+                            "familyName": "Soares",
+                            "documentNumber": "144",
+                            "documentType": "CITIZEN_CARD",
+                            "dateOfBirth": "2000-03-10",
+                            "casesContagiated": [],
+                            "healthFacility": {
+                                "id": 1,
+                                "name": "one",
+                                "fullAddress": "one"
+                            },
+                            "caseStatus": "PROBABLE",
+                            "outcome": "UNDEFINED",
+                            "dateOfAttendance": "2020-11-29",
+                            "dateOfSymptoms": "2020-11-29",
+                            "lastUpdated": "2020-11-29",
+                            "closingDate": null
+                        }
+                    ],
+                    "healthFacility": {
+                        "id": 1,
+                        "name": "one",
+                        "fullAddress": "one"
+                    },
+                    "caseStatus": "CONFIRMED",
+                    "outcome": "DIED",
+                    "dateOfAttendance": "2020-11-29",
+                    "dateOfSymptoms": "2020-11-29",
+                    "lastUpdated": "2020-11-29",
+                    "closingDate": "2020-11-29"
+                }
+            ],
+            "healthFacility": {
+                "id": 1,
+                "name": "one",
+                "fullAddress": "one"
+            },
+            "caseStatus": "CONFIRMED",
+            "outcome": "RECOVERED",
+            "dateOfAttendance": "2020-11-29",
+            "dateOfSymptoms": "2020-11-29",
+            "lastUpdated": "2020-11-29",
+            "closingDate": "2020-11-29"
+        },
+        {
+            "caseNumber": 3,
+            "givenName": "Joao",
+            "familyName": "Santos",
+            "documentNumber": "888",
+            "documentType": "CITIZEN_CARD",
+            "dateOfBirth": "2000-03-10",
+            "casesContagiated": [
+                {
+                    "caseNumber": 4,
+                    "givenName": "Pedro",
+                    "familyName": "Selva",
+                    "documentNumber": "144",
+                    "documentType": "CITIZEN_CARD",
+                    "dateOfBirth": "2000-03-10",
+                    "casesContagiated": [],
+                    "healthFacility": {
+                        "id": 1,
+                        "name": "one",
+                        "fullAddress": "one"
+                    },
+                    "caseStatus": "PROBABLE",
+                    "outcome": "UNDEFINED",
+                    "dateOfAttendance": "2020-11-29",
+                    "dateOfSymptoms": "2020-11-29",
+                    "lastUpdated": "2020-11-29",
+                    "closingDate": null
+                }
+            ],
+            "healthFacility": {
+                "id": 1,
+                "name": "one",
+                "fullAddress": "one"
+            },
+            "caseStatus": "PROBABLE",
+            "outcome": "UNDEFINED",
+            "dateOfAttendance": "2020-11-29",
+            "dateOfSymptoms": "2020-11-29",
+            "lastUpdated": "2020-11-29",
+            "closingDate": null
+        },
+        {
+            "caseNumber": 5,
+            "givenName": "Joao",
+            "familyName": "Santos",
+            "documentNumber": "888",
+            "documentType": "CITIZEN_CARD",
+            "dateOfBirth": "2000-03-10",
+            "casesContagiated": [
+                {
+                    "caseNumber": 6,
+                    "givenName": "Pedro",
+                    "familyName": "Sou",
+                    "documentNumber": "2222",
+                    "documentType": "CITIZEN_CARD",
+                    "dateOfBirth": "2000-03-10",
+                    "casesContagiated": [],
+                    "healthFacility": {
+                        "id": 1,
+                        "name": "one",
+                        "fullAddress": "one"
+                    },
+                    "caseStatus": "PROBABLE",
+                    "outcome": "UNDEFINED",
+                    "dateOfAttendance": "2020-11-29",
+                    "dateOfSymptoms": "2020-11-29",
+                    "lastUpdated": "2020-11-29",
+                    "closingDate": null
+                }
+            ],
+            "healthFacility": {
+                "id": 1,
+                "name": "one",
+                "fullAddress": "one"
+            },
+            "caseStatus": "PROBABLE",
+            "outcome": "UNDEFINED",
+            "dateOfAttendance": "2020-11-29",
+            "dateOfSymptoms": "2020-11-29",
+            "lastUpdated": "2020-11-29",
+            "closingDate": null
+        }
+    ]
+}
