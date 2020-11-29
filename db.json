@@ -72,7 +72,7 @@
         {
             "caseNumber": 3,
             "givenName": "Joao",
-            "familyName": "Santos",
+            "familyName": "Soares",
             "documentNumber": "888",
             "documentType": "CITIZEN_CARD",
             "dateOfBirth": "2000-03-10",
@@ -112,7 +112,7 @@
         },
         {
             "caseNumber": 5,
-            "givenName": "Joao",
+            "givenName": "Miguel",
             "familyName": "Santos",
             "documentNumber": "888",
             "documentType": "CITIZEN_CARD",
@@ -121,7 +121,7 @@
                 {
                     "caseNumber": 6,
                     "givenName": "Pedro",
-                    "familyName": "Sou",
+                    "familyName": "Sousa",
                     "documentNumber": "2222",
                     "documentType": "CITIZEN_CARD",
                     "dateOfBirth": "2000-03-10",
