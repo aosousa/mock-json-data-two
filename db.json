@@ -137,6 +137,26 @@
                     "dateOfSymptoms": "2020-11-29",
                     "lastUpdated": "2020-11-29",
                     "closingDate": null
+                },
+                {
+                    "caseNumber": 8,
+                    "givenName": "Joaquim",
+                    "familyName": "Sousa",
+                    "documentNumber": "2222",
+                    "documentType": "CITIZEN_CARD",
+                    "dateOfBirth": "2000-03-10",
+                    "casesContagiated": [],
+                    "healthFacility": {
+                        "id": 1,
+                        "name": "one",
+                        "fullAddress": "one"
+                    },
+                    "caseStatus": "PROBABLE",
+                    "outcome": "UNDEFINED",
+                    "dateOfAttendance": "2020-11-29",
+                    "dateOfSymptoms": "2020-11-29",
+                    "lastUpdated": "2020-11-29",
+                    "closingDate": null
                 }
             ],
             "healthFacility": {
