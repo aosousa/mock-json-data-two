@@ -1,10 +1,10 @@
 {
     "curve": {
         "dateTime": "2020-11-29T15:35:08.842071",
-        "total": 2,
-        "deaths": 1,
-        "recovered": 1,
-        "negatives": 0
+        "total": 6,
+        "deaths": 2,
+        "recovered": 3,
+        "negatives": 1
     },
     "transmission": [
         {
